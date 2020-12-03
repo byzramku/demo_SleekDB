@@ -1,6 +1,10 @@
 # demo_SleekDB
 Implementasi noSQL SleekDB versi 1.5.0 dengan CodeIgniter 3.1.11
 
+Content Author : Bayuaji Zaenal, S.Kom
+
+Publish Date : 2020, December 03
+
 ### Sample CRUD API
 
 1. Create ( Insert )
