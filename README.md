@@ -5,7 +5,7 @@ Content Author : Bayuaji Zaenal, S.Kom
 
 Publish Date : 2020, December 03
 
-### Sample CRUD API
+### CRUD API Example
 
 1. Create ( Insert )
     * $sleekDB->insert()
