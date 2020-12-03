@@ -12,7 +12,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 	Used for API Services
 */
 
-require_once SLEEKDB;
+require_once SLEEKDB; // Define SleekDB Path Library, am using Constant to define it
 
 class Auth extends MY_Controller {
 	function __contruct() {
